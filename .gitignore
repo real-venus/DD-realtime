@@ -1,0 +1,5 @@
+/target
+.env
+.dockerignore
+.env.dev
+.env.production
